@@ -2,7 +2,7 @@
   "name": "gm-cursor",
   "version": "2.0.5",
   "publisher": "gm",
-  "displayName": "Glootie - GM State Machine",
+  "displayName": "GM - GM State Machine",
   "description": "Advanced Claude Code plugin with WFGY integration, MCP tools, and automated hooks",
   "author": "AnEntrypoint",
   "license": "MIT",
