@@ -1,18 +1,3 @@
 {
-  "mcpServers": {
-    "dev": {
-      "command": "bun x",
-      "args": [
-        "mcp-gm@latest"
-      ],
-      "timeout": 360000
-    },
-    "code-search": {
-      "command": "bun x",
-      "args": [
-        "codebasesearch@latest"
-      ],
-      "timeout": 360000
-    }
-  }
+  "mcpServers": {}
 }
